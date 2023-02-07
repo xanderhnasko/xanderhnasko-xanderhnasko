@@ -5,13 +5,19 @@
 
 - - -
 
-I'm an undergraduate at 🌲<span class="colour" style="color:rgb(153, 0, 0)">**Stanford University**</span>🌲<span class="colour" style="color:rgb(153, 0, 0)"></span> studying
+I'm an undergraduate at 🌲<span class="color" style="color:red">**Stanford University**</span>🌲<span class="colour" style="color:rgb(153, 0, 0)"></span> studying
 ➗💻<i>**Mathematical and Computational Science**</i>💻➗
 <br>
-* **Completed coursework in**: Programming Methodologies, Programming Abstractions, Mathematical Foundations of Computing, Linear Algebra and Multivariable Calculus, Computer Organization and Systems (CS107), and Applied Matrix Theory (Principal Component Analysis)
-* **Interested In**: startups, problem solving, modern finance, business, software
+* **Completed coursework in**: 
+
+Programming Methodologies, Programming Abstractions, Mathematical Foundations of Computing, Linear Algebra and Multivariable Calculus, Computer Organization and Systems (CS107), and Applied Matrix Theory (Principal Component Analysis)
+* **Interested In**: 
+
+\- startups, problem solving, modern finance, business, software
 * **What I'm proud of**:
+
 \- Built a fully functional\, terminal\-based memory allocator in x64 architecture with the goal of maximizing throughput and utilization
+
 \- Implemented automatic block\-coalesce and absorbing strategies to minimize fragmentation \(97% average utilization\)
 * **Reach me**: [xanderh@stanford.edu](mailto:xanderh@stanford.edu)
 
