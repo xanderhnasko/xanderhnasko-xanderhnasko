@@ -5,7 +5,7 @@
 
 - - -
 
-I'm an undergraduate at 🌲<span class="color" style="color:red">**Stanford University**</span>🌲<span class="colour" style="color:rgb(153, 0, 0)"></span> studying
+I'm an undergraduate at 🌲<span style="color: red;">**Stanford University**</span>🌲 studying
 ➗💻<i>**Mathematical and Computational Science**</i>💻➗
 <br>
 * **Completed coursework in**: 
