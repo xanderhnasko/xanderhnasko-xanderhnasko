@@ -5,9 +5,9 @@
 
 - - -
 
-I'm an undergraduate at 🌲<span style="color: red;">**Stanford University**</span>🌲 studying
-➗💻<i>**Mathematical and Computational Science**</i>💻➗
-<br>
+I study Mathematical and Computational Science (B.S.) and Computer Science (M.S., AI track) at **Stanford University**.
+
+I'm also passionate about philosophy (metalogic and metaphysics), all things data science, and leveraging AI systems to make our world a better place!
 
 * **Reach me**: [xanderh@stanford.edu](mailto:xanderh@stanford.edu)
 
@@ -15,7 +15,7 @@ I'm an undergraduate at 🌲<span style="color: red;">**Stanford University**</s
 
 ### Languages:
 
-* **C, C++, Python, SQL, R, HTML/CSS**
+* **Python, C, C++, SQL, R, HTML/CSS**
 
 - - -
 
